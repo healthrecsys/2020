@@ -64,7 +64,7 @@ The goal of this workshop is to share and discuss research and projects that rea
 
 Submissions:
 ============
-We solicit research papers (up to 6 pages) and short position papers (2 pages), both in the ACM conference paper style. Participants can decide between a research focused submission, resulting in a workshop presentation, and a project focused submission, resulting in a workshop poster. A selection of best papers will be presented in a flash talk. Further papers will be presented in the form of a poster. Papers should be submitted in EasyChair: TODO
+We solicit research papers (up to 6 pages) and short position papers (2 pages), both in the ACM conference paper style. Participants can decide between a research focused submission, resulting in a workshop presentation, and a project focused submission, resulting in a workshop poster. A selection of best papers will be presented in a flash talk. Further papers will be presented in the form of a poster. Papers should be submitted in EasyChair: https://easychair.org/conferences/?conf=healthrecsys20
 
 ** Submission category research: innovative research ideas, preliminary results or system prototypes
 
