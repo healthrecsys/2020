@@ -79,7 +79,7 @@ All submitted papers must:
 ** Be formatted according to the ACM SIG Proceedings Template with a font size no smaller than 9pt;
 ** Be in PDF (make sure that the PDF can be viewed on any platform), and formatted for US Letter size;
 
-Link or demo in attachment are preferred in both cases. All papers will be peer-reviewed, must not be under review in any other conference, workshop or journal (at the time of submission), and must contain novel contributions. Accepted papers will be published according to the ACM RECSYS 2019 WS publication rules. Please use the workshop's EasyChair submission page for submitting your paper.
+Link or demo in attachment are preferred in both cases. All papers will be peer-reviewed, must not be under review in any other conference, workshop or journal (at the time of submission), and must contain novel contributions. Accepted papers will be published according to the ACM RECSYS 2020 WS publication rules. Please use the workshop's EasyChair submission page for submitting your paper.
 
 A Few Remarks
 =============
@@ -90,8 +90,7 @@ A Few Remarks
 
 Location:
 =========
-TODO:
-RecSys 2019 will be hosted in Copenhagen, Denmark, at the Scandic Falkoner hotel from September 16-20, 2019. Please visit the RecSys 2019 website for more information about this location: https://recsys.acm.org/recsys19/location/
+RecSys 2020 will be hosted in Rio de Janeiro, Brazil from September 22-26, 2020. Please visit the RecSys 2020 website for more information about this location: https://recsys.acm.org/recsys20/location/
 
 Contact:
 ========
